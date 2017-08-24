@@ -52,4 +52,4 @@ matrix:
           - clang-4.0
           - g++-6
       env:
-- CMAKE_CXX_COMPILER=clang++-4.0
+        - CMAKE_CXX_COMPILER=clang++-4.0
